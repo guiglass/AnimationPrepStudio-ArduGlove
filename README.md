@@ -14,6 +14,6 @@ The Arduino files are used to program the Arduino so it can communicate with Ani
 Two Arduino examples are show, one is a wired simple serial example, the other is the nRF24L01 wireless example.
 
 
-3D printed tracker holder:
+With 3D printed tracker holder:
 
-![<img src="https://i.imgur.com/UHsH0TF.png">](https://i.imgur.com/UHsH0TFm.png) ![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png)
+![ArduGlove](https://i.imgur.com/UHsH0TFm.png) ![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png) ![sensor sleeves](https://i.imgur.com/undYzGym.jpg)
