@@ -16,6 +16,4 @@ Two Arduino examples are show, one is a wired simple serial example, the other i
 
 3D printed tracker holder:
 
-![<img src="https://i.imgur.com/UHsH0TF.png">](https://i.imgur.com/UHsH0TFm.png)
-
-![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKu.png)
+![<img src="https://i.imgur.com/UHsH0TF.png">](https://i.imgur.com/UHsH0TFm.png) ![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png)
