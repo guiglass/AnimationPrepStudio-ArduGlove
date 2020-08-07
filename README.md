@@ -18,4 +18,6 @@ With 3D printed tracker holder:
 
 ![ArduGlove](https://i.imgur.com/UHsH0TFm.png) ![sensor sleeves](https://i.imgur.com/undYzGym.jpg)
 
-![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKu.png)
+[![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png)](https://i.imgur.com/Iv2EuKu.png)
+
+
