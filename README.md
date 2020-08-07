@@ -16,8 +16,4 @@ Two Arduino examples are show, one is a wired simple serial example, the other i
 
 With 3D printed tracker holder:
 
-![ArduGlove](https://i.imgur.com/UHsH0TFm.png) ![sensor sleeves](https://i.imgur.com/undYzGym.jpg)
-
-[![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png)](https://i.imgur.com/Iv2EuKu.png)
-
-
+[![ArduGlove](https://i.imgur.com/UHsH0TFm.png)](https://i.imgur.com/UHsH0TF.png) [![sensor sleeves](https://i.imgur.com/undYzGym.jpg)](https://i.imgur.com/undYzGy.jpg) [![3D printed tracker holder parts](https://i.imgur.com/Iv2EuKum.png)](https://i.imgur.com/Iv2EuKu.png)
