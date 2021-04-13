@@ -1,9 +1,11 @@
 # AnimationPrepStudio-ArduGlove
 DIY Arduino/SteamVR motion capture gloves for AnimationPrepStudio. 
 
-Files for assembling and programming a (super low latency) "DIY" motion capture glove using an Arduino and 5x SEN-08606 Flex Sensor 4.5" for each finger and a Vive tracker that is strapped to the 3D printed hand strap.
 
 ![Ardugloves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/IMG_0291.jpg)
+
+Files for assembling and programming a (super low latency) "DIY" motion capture glove using an Arduino and 5x SEN-08606 Flex Sensor 4.5" for each finger and a Vive tracker that is strapped to the 3D printed hand strap.
+
 ![Ardugloves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/ardu_glove1.jpg)
 
 
