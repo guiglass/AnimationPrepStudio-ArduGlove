@@ -20,11 +20,11 @@ Two Arduino examples are shown, one is a wired simple serial example, the other 
 
 With 3D printable tracker holder:
 
-[![ArduGlove](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/68747470733a2f2f692e696d6775722e636f6d2f76774d755734332e706e67.png)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/68747470733a2f2f692e696d6775722e636f6d2f76774d755734332e706e67.png | width=1024)
+[![ArduGlove](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/68747470733a2f2f692e696d6775722e636f6d2f76774d755734332e706e67.png)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/68747470733a2f2f692e696d6775722e636f6d2f76774d755734332e706e67.png)
 
-[![3D printed tracker holder parts](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/IMG_E0554.JPG)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/IMG_E0554.JPG | width=1024) 
+[![3D printed tracker holder parts](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/IMG_E0554.JPG)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/IMG_E0554.JPG) 
 
-[![3D printed tracker holder parts](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png)](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png | width=1024) 
+[![3D printed tracker holder parts](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png)](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png) 
 
 Optionally you may use cotton gloves and simply glue the sensor pouches to directly to the glove (this designe is very simple yet very effective):
-[![sensor sleeves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png | width=1024)
+[![sensor sleeves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png)
