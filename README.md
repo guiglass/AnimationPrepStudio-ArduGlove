@@ -24,5 +24,5 @@ With 3D printable tracker holder:
 
 [![3D printed tracker holder parts](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png)](https://github.com/guiglass/AnimationPrepStudio-ArduGlove/blob/master/IMG/Iv2EuKu.png) 
 
-Or use a cotton glove and simply glue the sensor pouches to directly to the glove:
+Optionally use a cotton gloves and simply glue the sensor pouches to directly to the glove (this designe is very simple to fabricate):
 [![sensor sleeves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png)](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/udh153.png)
