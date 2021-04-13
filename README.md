@@ -6,16 +6,23 @@ DIY Arduino/SteamVR motion capture gloves for AnimationPrepStudio.
 
 Files for assembling and programming a (super low latency) "DIY" motion capture glove using an Arduino and 5x SEN-08606 Flex Sensor 4.5" for each finger and a Vive tracker that is strapped to the 3D printed hand strap.
 
+nRF24 wireless receiver: https://www.sparkfun.com/products/705
+10k ohm flex sensors: https://www.spectrasymbol.com/wp-content/uploads/2019/07/flexsensordatasheetv2019revA.pdf
+Boneduino with nRF24 raido: http://duinopeak.com/index.php?route=product/product&manufacturer_id=9&product_id=30
+
 ![Ardugloves](https://raw.githubusercontent.com/guiglass/AnimationPrepStudio-ArduGlove/master/IMG/ardu_glove1.jpg)
 
 
-The laser cutter files are included to make the flex sensor sleeves.
 
-The 3D printer files are include to make the hand strap that holds the Vive tracker.
 
-The Arduino files are used to program the Arduino so it can communicate with AnimationPrepStudio via a Com port.
+The files in this git include:
+Laser cutter files for cutting the flex sensor sleeves (if needed).
 
-Two Arduino examples are shown, one is a wired simple serial example, the other is the nRF24L01 wireless example.
+The 3D printer files are include to make the hand strap that hold the Vive trackers.
+
+The Arduino files are used to program the Arduino/Boneduino to communicate with AnimationPrepStudio via a serial com port.
+
+Two Arduino examples are shown, one is a hard wired simple serial example, the other is the nRF24L01 wireless example.
 
 
 With 3D printable tracker holder:
